@@ -7,7 +7,7 @@ use Chweb\MultiAuth\Console\InstallCommand;
 
 class MultiAuthServiceProvider extends ServiceProvider
 {
-    public const VERSION = '1.0.0';
+    public const VERSION = '1.0.1';
 
     public function boot(): void
     {

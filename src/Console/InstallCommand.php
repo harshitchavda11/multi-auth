@@ -42,7 +42,7 @@ class InstallCommand extends Command
         $this->createMigration($plural);
 
         // 3. Controllers
-        $this->createControllers($model, $guard);
+        $this->createControllers($model, $guard, $stack);
 
         // 4. Routes
         $this->createRoutes($guard);

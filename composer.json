@@ -1,6 +1,6 @@
 {
     "name": "chweb/multi-auth",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Laravel 12 Multi-Auth Package for PHP 8.4",
     "type": "library",
     "license": "MIT",

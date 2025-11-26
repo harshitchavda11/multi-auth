@@ -1,6 +1,6 @@
 # Laravel Multi-Auth Package
 
-[![Latest Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/chweb/multi-auth)
+[![Latest Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/chweb/multi-auth)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.4-purple.svg)](https://php.net)
 [![Laravel Version](https://img.shields.io/badge/laravel-%5E11.0%20%7C%20%5E12.0-red.svg)](https://laravel.com)
 
@@ -208,13 +208,13 @@ For detailed documentation, see:
 
 ## 🔄 Version
 
-Current version: **1.0.0**
+Current version: **1.0.1**
 
 Access programmatically:
 ```php
 use Chweb\MultiAuth\MultiAuthServiceProvider;
 
-echo MultiAuthServiceProvider::VERSION; // 1.0.0
+echo MultiAuthServiceProvider::VERSION; // 1.0.1
 ```
 
 ## 📝 Changelog
