@@ -237,6 +237,7 @@ This package is open-sourced software licensed under the [MIT license](LICENSE).
 ## 🙏 Credits
 
 This package is inspired by the deprecated `hesto/multi-auth` package, rebuilt for modern Laravel with Breeze integration.
+<p style="color:#6c757d; font-size:small;">Disclaimer: This package is built on Laravel Breeze and inspired by the hesto/multi-auth concept. It is provided without any claim to original copyrights.</p>
 
 ## ⚠️ Support
 
